@@ -1,6 +1,7 @@
 {
     "name": "mikedugan/sso-laravel",
     "description": "VATSIM SSO package adapted for laravel",
+	"license": "MIT",
     "authors": [
         {
             "name": "Mike Dugan",
