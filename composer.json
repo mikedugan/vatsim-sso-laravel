@@ -1,5 +1,5 @@
 {
-    "name": "mikedugan/sso",
+    "name": "mikedugan/sso-laravel",
     "description": "VATSIM SSO package adapted for laravel",
     "authors": [
         {
